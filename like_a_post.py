@@ -1,6 +1,6 @@
 import requests
 from constants import BASE_URL,APP_ACCESS_TOKEN
-from get_users_post import  get_users_post
+from get_user_post import  get_users_post
                                                 # Importing functions and constants from other files
 
 def like_a_post(insta_username) :           # Defination of like_a_post() function

@@ -1,5 +1,5 @@
 import requests
-from get_users_post import get_users_post
+from get_user_post import get_users_post
 from constants import APP_ACCESS_TOKEN,BASE_URL
                                                     # Importing functions and constants from other files
 

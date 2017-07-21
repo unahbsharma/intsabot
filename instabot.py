@@ -5,11 +5,11 @@ from get_user_info import get_user_info
 from recent_media_like import recent_media_like
 from like_a_post import like_a_post
 from post_a_comment import post_a_comment                           # Importing functions and constants from other files
-from delete_negative_comments import delete_negative_comment
+from delete_negative_comment import delete_negative_comment
 from constants import insta_username
 from get_user_id import get_user_id
 from comment_list import comment_list
-from get_users_post import get_users_post
+from get_user_post import get_users_post
 from sub_trends import sub_trends
 
 

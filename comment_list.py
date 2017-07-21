@@ -1,4 +1,4 @@
-from get_users_post import get_users_post
+from get_user_post import get_users_post
 from constants import insta_username,BASE_URL,APP_ACCESS_TOKEN
 import requests
 import unicodedata
